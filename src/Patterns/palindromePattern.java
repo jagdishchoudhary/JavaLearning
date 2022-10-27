@@ -1,3 +1,5 @@
+package Patterns;
+
 public class palindromePattern {
     public static void main(String[] args) {
         /*

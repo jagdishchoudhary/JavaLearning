@@ -1,3 +1,5 @@
+package Patterns;
+
 public class secondPattern {
     public static void main(String[] args) {
         // Hollow rectangle

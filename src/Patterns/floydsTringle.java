@@ -1,3 +1,5 @@
+package Patterns;
+
 public class floydsTringle {
     public static void main(String[] args) {
         /*

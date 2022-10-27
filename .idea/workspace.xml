@@ -5,15 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a52b75de-c771-43ca-b3a4-49bb3b682314" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FirstPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/binary_Tringle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/butterflyPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/floydsTringle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/invertedHalfPyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/numberPyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/palindromePattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secondPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/solidRhombus.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666856505907</updated>
-      <workItem from="1666856508562" duration="5664000" />
+      <workItem from="1666856508562" duration="6870000" />
     </task>
     <servers />
   </component>

@@ -1,3 +1,5 @@
+package Patterns;
+
 public class butterflyPattern {
     public static void main(String[] args) {
 

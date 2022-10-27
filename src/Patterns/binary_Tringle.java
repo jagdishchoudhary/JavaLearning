@@ -1,3 +1,5 @@
+package Patterns;
+
 public class binary_Tringle {
 
     public static void main(String[] args) {
