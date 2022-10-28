@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a52b75de-c771-43ca-b3a4-49bb3b682314" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/binarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/linearSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/percentageInSem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Functions/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Functions/fibonacciSeries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Functions/maxOfThreeNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Functions/twoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/addTwo2DMatrix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +57,7 @@
       <workItem from="1666856508562" duration="6870000" />
       <workItem from="1666867955311" duration="46000" />
       <workItem from="1666868027619" duration="3486000" />
-      <workItem from="1666967652797" duration="2056000" />
+      <workItem from="1666967652797" duration="3783000" />
     </task>
     <servers />
   </component>
