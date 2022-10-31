@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a52b75de-c771-43ca-b3a4-49bb3b682314" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Strings/inputOutput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/bubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/insertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/selectionSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,6 +62,7 @@
       <workItem from="1666967652797" duration="4118000" />
       <workItem from="1667144043499" duration="1289000" />
       <workItem from="1667183344186" duration="26000" />
+      <workItem from="1667183686884" duration="6229000" />
     </task>
     <servers />
   </component>
