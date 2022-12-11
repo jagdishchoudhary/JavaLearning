@@ -14,6 +14,6 @@ public class percentageInSem {
         for(int i = 0; i <= 5; i++)
             sum += marks[i];
 
-        System.out.println("Percentage : " + sum / 6);
+        System.out.println("Percentage : " + sum / 6 * 100);
     }
 }
