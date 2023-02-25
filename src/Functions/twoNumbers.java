@@ -23,7 +23,7 @@ public class twoNumbers {
         return greatestCommonDivisor(b, a % b);
     }
 
-    private static int lcmOfTwoNumbers(int a, int b) {
+    public static int lcmOfTwoNumbers(int a, int b) {
 
 
         int lcm = 1;
