@@ -5,30 +5,73 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a52b75de-c771-43ca-b3a4-49bb3b682314" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Basics/ExtractValues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codechef/BullOrBear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codechef/CandyLove.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codechef/ConvertToPermutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codechef/CountingProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codechef/EasyPermutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codechef/EqualCardGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codechef/ExpenseList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codechef/KitchenTimings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codechef/MakeAP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codechef/MinOnes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codechef/PrimeReversalAndMakeTwoStringEquals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Codechef/TourOfKing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling/CheckedException/Basic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling/UnCheckedException/Basic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MathmaticsQsn/LCM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PostCall/EmployeeRegister.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/BasicArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/BasicMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/BasicSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/BasicStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programs/SumOfNaturalNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaLearning.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A_Overview/Introduction.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/B_Basics/Basics.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/B_Basics/DataTypes/NonPrimitive/ClassDataType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/B_Basics/DataTypes/NonPrimitive/StringDataTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/B_Basics/DataTypes/Primitive/booleanDataType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/B_Basics/DataTypes/Primitive/byteDataType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/B_Basics/DataTypes/Primitive/charDataType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/B_Basics/DataTypes/Primitive/doubleDataType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/B_Basics/DataTypes/Primitive/floatDataType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/B_Basics/DataTypes/Primitive/intDataType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/B_Basics/DataTypes/Primitive/longDataType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/B_Basics/HelloWorld.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Functions/twoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Functions/twoNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/addTwo2DMatrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/binarySearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/linearSearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/percentageInSem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basics/ExtractValues.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codechef/BullOrBear.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codechef/CandyLove.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codechef/ConvertToPermutation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codechef/CountingProblem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codechef/EasyPermutation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codechef/EqualCardGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codechef/ExpenseList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codechef/KitchenTimings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codechef/MakeAP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codechef/MinOnes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codechef/PrimeReversalAndMakeTwoStringEquals.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codechef/TourOfKing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataTypes/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataTypes/DataTypes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataTypes/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataTypes/Shapes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExceptionHandling/CheckedException/Basic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExceptionHandling/UnCheckedException/Basic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Functions/Factorial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Functions/addTwoNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Functions/fibonacciSeries.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Functions/maxOfThreeNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Functions/twoNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Interfaces/Int1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/List/ArrayListPrograms.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/List/stackProgram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MathmaticsQsn/LCM.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/FirstPattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/binary_Tringle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/butterflyPattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/floydsTringle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/invertedHalfPyramid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/numberPyramid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/palindromePattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/secondPattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/solidRhombus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PostCall/EmployeeRegister.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sorting/bubbleSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sorting/insertionSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sorting/selectionSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Strings/inputOutput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collection/BasicArrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collection/BasicMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collection/BasicSet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collection/BasicStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programs/SumOfNaturalNumbers.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,32 +100,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/myWorkspace/JavaLearning",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
   }
-}</component>
-  <component name="RunManager" selected="Application.SumOfNaturalNumbers">
-    <configuration name="Basic (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic" />
-      <module name="Pattern" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Basic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExceptionHandling.UnCheckedException.Basic" />
+}]]></component>
+  <component name="RunManager" selected="Application.ClassDataType">
+    <configuration name="ClassDataType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="B_Basics.DataTypes.NonPrimitive.ClassDataType" />
       <module name="Pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExceptionHandling.UnCheckedException.*" />
+          <option name="PATTERN" value="B_Basics.DataTypes.NonPrimitive.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BasicSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection.BasicSet" />
+    <configuration name="StringDataTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="B_Basics.DataTypes.NonPrimitive.StringDataTypes" />
       <module name="Pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collection.*" />
+          <option name="PATTERN" value="B_Basics.DataTypes.NonPrimitive.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExceptionHandling.CheckedException.Basic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExceptionHandling.CheckedException.Basic" />
+    <configuration name="doubleDataType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="B_Basics.DataTypes.Primitive.doubleDataType" />
       <module name="Pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExceptionHandling.CheckedException.*" />
+          <option name="PATTERN" value="B_Basics.DataTypes.Primitive.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +154,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfNaturalNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programs.SumOfNaturalNumbers" />
+    <configuration name="floatDataType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="B_Basics.DataTypes.Primitive.floatDataType" />
       <module name="Pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="programs.*" />
+          <option name="PATTERN" value="B_Basics.DataTypes.Primitive.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="longDataType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="B_Basics.DataTypes.Primitive.longDataType" />
+      <module name="Pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="B_Basics.DataTypes.Primitive.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SumOfNaturalNumbers" />
-        <item itemvalue="Application.Basic" />
-        <item itemvalue="Application.ExceptionHandling.CheckedException.Basic" />
-        <item itemvalue="Application.Basic (1)" />
-        <item itemvalue="Application.BasicSet" />
+        <item itemvalue="Application.ClassDataType" />
+        <item itemvalue="Application.StringDataTypes" />
+        <item itemvalue="Application.doubleDataType" />
+        <item itemvalue="Application.floatDataType" />
+        <item itemvalue="Application.longDataType" />
       </list>
     </recent_temporary>
   </component>
@@ -177,6 +228,8 @@
       <workItem from="1677215151852" duration="41000" />
       <workItem from="1677342429517" duration="1228000" />
       <workItem from="1677344148555" duration="725000" />
+      <workItem from="1697293677098" duration="5146000" />
+      <workItem from="1697366683604" duration="7335000" />
     </task>
     <servers />
   </component>
